@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faceted-project>
   <runtime name="Apache Tomcat v8.5"/>
-  <secondary-runtime name="Java SE 8 [1.8.0_131]"/>
+  <secondary-runtime name="java-8-openjdk-amd64"/>
   <fixed facet="jpt.jpa"/>
   <fixed facet="wst.jsdt.web"/>
   <fixed facet="java"/>

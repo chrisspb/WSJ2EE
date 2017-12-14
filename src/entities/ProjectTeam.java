@@ -14,6 +14,9 @@ import java.util.Date;
 @NamedQuery(name="ProjectTeam.findAll", query="SELECT p FROM ProjectTeam p")
 public class ProjectTeam implements Serializable {
 	private static final long serialVersionUID = 1L;
+	
+	@Id
+	private int id;
 
 	@Temporal(TemporalType.TIMESTAMP)
 	private Date dateend;
