@@ -1,6 +1,7 @@
 ## WSJ2EE
 
 ### launch mamp / wamp on 3306 port
+### create a database named "project" on localhost/phpmyadmin 
 ### import sql file : https://www.christianpaghbirk.com/dbws/db.sql.zip to a mysql database
 
 ## IDE
